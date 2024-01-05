@@ -1,42 +1,43 @@
 # Authorities
-This document aims to clatify the authorities, responsibilities and misconduct of managers and their direct reports
+This document aims to clatify the authorities, responsibilities and misconduct of managers and direct reports
 
 ## Managers
 
 ### Authorities 
-- Delegating tasks to DR.
-- Override the decisions of their DR.
-- Set strategic direction, provide guidance, and are accountable for their team's performance and outcomes. They often oversee task allocation and provide feedback.
+- Set strategic direction.
+- Delegating tasks to Direct Report.
+- Override the decisions of their Direct Report. (Rarely, Respectfuly, Rationally)
+- Making the decision for the Direct Report to disagree and commit if necessary.
 - Making decisions about when to bring critical matters to the attention of higher management.
-- Making the decision for the DR to disagree and commit if necessary.
-- Inquire DR about progress, obstacles, resources needed, and offer guidance or clarification as needed.
+- Inquire Direct Reports about progress, obstacles, resources needed.
 
 ### Responsibilities
-- Goal Setting and Alignment
-  - Setting meaningful goals that are aligned with that of the organization.
-  - Aligning delegated tasks with the direct report's skills and development objectives.
-  - Setting clear expectations and development goals for direct reports.
+- Setting Goals and Expectations
+  - Setting clear, meaningful goals (See [goal-setting](goal-setting.md))
+  - Setting clear expectations about the timing and how-to of moving towards these goals
+  - Aligning delegated tasks with these goals
+  - Clearly communicating corrective measures in expectations, goals, or priorities
 - Communication and Support
-  - Open to direct reports expressing concerns or proposing alternatives when facing challenges or decisions, fostering an open dialogue.
-  - Clarifying the tasks they delegate to direct reports according to the seniority of the direct report, predictively and on-demand, ensuring that they have enough information to exceed expectations.
-  - Providing guidance, resources, and support needed by direct reports to execute their tasks effectively.
-  - Providing feedback.
-  - Seeking feedback.
-  - Handles escalated issues about their direct reports.
+  - Clarifying the tasks they delegate to direct reports according to the seniority of the direct report, predictively and on-demand, ensuring that they have enough information to exceed expectations
+  - Open to direct reports expressing concerns or proposing alternatives when facing challenges or decisions, fostering an open dialogue
+  - Providing guidance, resources, and support needed by direct reports to execute their tasks effectively
+  - Seeking upward feedback.
 - Coaching and Development
-  - Ensuring technical and soft-skill growth of direct reports through coaching and mentorship.
-  - Supporting their direct reports' growth and development, ensuring that they remain motivated.
-  - Resolving conflicts between direct reports and colleagues.
-  - Protecting the dignity of direct reports.
+  - Evaluating the progress of the direct report with respect to their goals.
+  - Providing timely, frequent, batched, feedback (See [Feedback](feedback.md))
+  - Recommending changes in approach, attitude or behavior to help the direct report achieve their goals.
+  - Actively monitoring the stress and motivation of the direct reports, referring to HR if needed
 - Representation and Oversight
-  - Performance evaluation
+  - Maintain the team's utilization and performance
   - Representing the team's interests to higher management
+  - Handling escalated issues about their direct reports
+  - Protecting the dignity of direct reports
  
 ### Misconduct
-- Any form of verbal or physical violence 
+- Any form of verbal or physical violence (See [Violence](violence.md))
 - Arbitrary decision-making
 - Ignoring needs of direct report
-- Micromanagement
+- Micromanagement (See [Micromanagement](micromanagement.md))
 
 ## Direct Reports
 
@@ -57,8 +58,7 @@ This document aims to clatify the authorities, responsibilities and misconduct o
 ### Misconduct
 - Any form of verbal or physical violence 
 - Ignoring manager's inputs
-- Passive aggression
 - Avoiding help when needed
-- Resisting feedback (Even if it is not constructive).
-- Raising issues, and obstacles to inappropriate colleagues.
+- Resisting feedback (Even if it is not constructive)
+- Raising issues, and obstacles to inappropriate colleagues
 
