@@ -3,13 +3,13 @@
 **Warning!** This article is very opinionated and polarizing.<br/>
 It divides people to five groups
 
-| Label        | Description                               | Approach                                         |
-| ------------ | ----------------------------------------- | ------------------------------------------------ |
-| Mature       | Aligned with and actively live by values  | Encourage and admire                             |
-| Unseasoned   | Values aligned, behavior not internalized | Remind, guide and Support                        |
-| Uninformed   | Unaware of values                         | Guide and educate                                |
-| Astray       | Aware but disagrees with values           | Engage in dialogue and encourage reconsideration |
-| Manipulative | Aware but consistently defies values      | Establish boundaries and minimize engagement     |
+| State                                     | Label        | Approach                                         |
+| ----------------------------------------- | ------------ | ------------------------------------------------ |
+| Aligned with and actively live by values  | Mature       | Encourage and admire                             |
+| Values aligned, behavior not internalized | Unseasoned   | Remind, guide and Support                        |
+| Unaware of values                         | Uninformed   | Guide and educate                                |
+| Aware but disagrees with values           | Astray       | Engage in dialogue and encourage reconsideration |
+| Aware but consistently defies values      | Manipulative | Establish boundaries and minimize engagement     |
 
 **Manipulative behavior** often involves tactics that undermine healthy communication and
 can include deflecting, gaslighting, or attempting to control the narrative by shifting 
