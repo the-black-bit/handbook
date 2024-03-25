@@ -37,7 +37,6 @@ This document aims to clatify the authorities, responsibilities and misconduct o
 - Any form of verbal or physical violence (See [Violence](violence.md))
 - Arbitrary decision-making
 - Ignoring needs of direct report
-- Micromanagement (See [Micromanagement](micromanagement.md))
 
 ## Direct Reports
 
