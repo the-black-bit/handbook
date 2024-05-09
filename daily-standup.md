@@ -23,3 +23,6 @@ In the daily progress update meeting, a team member(usually the technical lead o
 Often, someone has something in their head that they think is very important and everyone should know about it, they should be very careful not to discuss such matters in the daily progress update meetings, they can however mention that there is a matter that needs to be discussed and schedule a separate meeting for that matter.
 
 If an issue is really important, it is worth having a separate meeting that has a clear and specific topic. A meeting that will lead to specific decisions and actions that will be clearly noted by the members of the meeting. This is not simply because we don't want to waste the time of the other team members by having them stay and listen to off-topic matters in the daily meeting. It is more importantly because we doin't want to waste the time and energy of the team by having them discuss the same matter so many times without getting any specifc results or outcomes.
+
+## Timeboxing
+As the title evidently goes, the daily-standup is a meeting that takes place every single day. too long is headache and also next meeting. #TODO
