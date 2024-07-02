@@ -19,9 +19,17 @@ Columns
 * Status: [See "Task Statuses" Below](#task-statuses)
 * Notes: Explanatory notes for pending status.
 * Priority
-* Deadline
+* Deadline*: The night by which all the review comments are resolved and the task enters the done state.
 * Estimate
 * Actual
+* Start: When project entered the In Progress State
+* End: When project
+* PR: The corresponding pull request (For tech teams)
+
+*Please Note that meeting the deadline is the responsibility of the assignee and not the
+reviewer or manager. The person who is responsible for the task should make sure to submit
+if for review few days before the deadline so that there is enough time for identifying
+and fixing the issues.
 
 ### Milestones
 
@@ -39,9 +47,9 @@ Columns
 | Pending        | Notes                 | Tasks awaiting specific event/action to proceed             | Clearly document reason, identify resolution needed to move task forward, the person that is supposed to resolve it and timeline.     |
 | Ready          |                       | Tasks ready for team execution, Estimate is accurate        | Ensure dependencies are met and scope is well-understood and estiamte is good enough                                                  |
 | Blocking       | Notes                 | Tasks blocking other tasks                                  | Give more priority and collaborate to address and unblock the pending task                                                            |
-| In Progress    | Deadline              | Tasks actively being worked on                              | Provide updates, communicate challenges, seek help if needed to ensure smooth progression                                             |
-| In Review      | Actual                | Completed tasks under quality assurance                     | Conduct thorough reviews, address feedback, ensure tasks meet acceptance criteria before marking as "Done"                            |
-| Done           |                       | Successfully completed tasks                                | Celebrate completion, gather feedback for improvement, archive task details for future reference                                      |
+| In Progress    | Deadline, Start       | Tasks actively being worked on                              | Provide updates, communicate challenges, seek help if needed to ensure smooth progression                                             |
+| In Review      | Actual, PR            | Completed tasks under quality assurance                     | Conduct thorough reviews, address feedback, ensure tasks meet acceptance criteria before marking as "Done"                            |
+| Done           | Actual, End           | Successfully completed tasks                                | Celebrate completion, gather feedback for improvement, archive task details for future reference                                      |
 | Failed*        | Actual                | Unsuccessful tasks                                          | Conduct retrospective, analyze reasons for failure, identify lessons learned, take corrective actions to prevent similar failures     |
 
 Note: Failed status does not indicate individual failure. Instead, it highlights potential
